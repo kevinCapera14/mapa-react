@@ -1,0 +1,14 @@
+.mapadiv {
+  width: 50%;
+  margin: auto;
+}
+
+.mapadiv path {
+  fill: grey;
+  stroke: #00ff7f;
+  stroke-width: 2px;
+}
+
+.mapadiv :hover {
+  fill: #ff0000;
+}
